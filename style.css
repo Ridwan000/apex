@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    height: 8rem;
+    background-color: white;
+}
+
+.blue{
+    height: 1.2rem;
+    background-color: #070D59;
+}
+.work{
+    font-family: 'Montserrat', sans-serif;
+    color: #070D59;
+    line-height: 1.35em;
+    
+    font-size: 40px;
+
+}
+.main{
+    justify-content: center;
+    align-items: center;
+    margin-left: 5rem;
+
+}
+.card-body{
+    background-color: #070D59;
+    color: white;
+}
+
+.lighty{
+   background-color:  rgb(31, 60, 136);
+}
+
+.accept{
+    height: 8rem;
+    background-color: #070D59;
+    margin-top: 20px;
+}
+
+.assets{
+    
+    position: absolute;
+    left: 36rem;
+    top: 35rem;
+    
+}
